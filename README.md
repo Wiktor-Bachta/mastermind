@@ -1,6 +1,6 @@
 # Mastermind
 Program pozwala zagrać w grę mastermind. Gracz ustala sobie kombinację czterech cyfr od 1-6, a program proponuje układ.
-Następnie gracz wpisuje liczbę kołeczków czerwonych (dobra cyfra na dobrym miejscu) orz białych (dobra cyfra na złym miejcu).
+Następnie gracz wpisuje liczbę kołeczków czerwonych (dobra cyfra na dobrym miejscu) orz białych (dobra cyfra na złym miejscu).
 Program zgaduje układ w maksymalnie ośmiu pytaniach!
 
 ```
@@ -28,4 +28,4 @@ białe: 1
 czerwone: 4
 białe: 0
 Wygrałem!
-```git
+```
